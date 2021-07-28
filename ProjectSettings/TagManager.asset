@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - BHole
+  - Cart
+  - enviroment
+  - Wall
+  - Coin
+  - Wood
+  - Objective
+  - Done
+  - Sand
+  - Rolnik
+  - Wilk
+  - Poker
+  - Kolec
+  - Cannon
+  - Enemy
+  - Guard
+  - "Strza\u0142aBalisty"
+  - fire
+  - Strzalanatrola
+  - AtakSpot
+  - DefensSpot
+  - Button
+  - Target
+  - FireWall
+  - Owca
+  - OwcaShot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ziemia
+    uniqueID: 1041658215
+    locked: 0
+  - name: "Mo\u017Cna Chodzi\u0107 Po"
+    uniqueID: 2471694065
+    locked: 0
+  - name: Powierzchnia
+    uniqueID: 403840995
+    locked: 0
+  - name: Nad Ziemia
+    uniqueID: 310567781
+    locked: 0
